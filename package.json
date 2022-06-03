@@ -1,0 +1,15 @@
+{
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "Oleksii Raspopov",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.6.2"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "trailingComma": "all",
+    "proseWrap": "always"
+  }
+}
